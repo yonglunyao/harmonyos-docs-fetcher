@@ -7,10 +7,10 @@ __pycache__/
 venv/
 env/
 
-# HarmonyOS docs (too large for GitHub)
-harmonyos-docs-full/
-harmonyos-docs-full-clawer/
-*.zip
+# HarmonyOS docs (now included in git)
+# harmonyos-docs-full/
+# harmonyos-docs-full-clawer/
+# *.zip
 
 # IDE
 .vscode/
